@@ -75,7 +75,7 @@ npm start (后端)  localhost:3000
 │   ├── App.vue                       // 页面入口文件
 │   └── main.js                       // 前端程序入口文件
 ├── server                            // 后端源码目录
-│   ├── bl 		                      // 请求响应
+│   ├── bl 		              // 请求响应
 │   │   ├── user.js                   // 用户相关请求 
 │   │   └── note.js                   // note相关请求
 │   ├── dal                           // 与mongo的crul操作
@@ -88,8 +88,8 @@ npm start (后端)  localhost:3000
 │   ├── config.js                     // 后端配置文件
 │   │── index.js                      // 后端主文件
 │   └── router.js                     // 后端路由
-├── app.js                 		      // 后端入口
-├── package.json			          // package.json
-└── index.html              		  // 入口html文件
+├── app.js                 	      // 后端入口
+├── package.json	              // package.json
+└── index.html                        // 入口html文件
 
 ```
